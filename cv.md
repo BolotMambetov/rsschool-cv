@@ -1,5 +1,5 @@
 # Mambetov Bolot
-===
+---
 ### Junior Frontend Developer
 ---
 **My contact information:**
